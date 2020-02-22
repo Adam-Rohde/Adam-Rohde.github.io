@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### About Me
 
-You can use the [editor on GitHub](https://github.com/Adam-Rohde/Adam-Rohde.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I’m a graduate student in Statistics at UCLA. My research interests are causal inference, computational statistics, and machine learning. I’m passionate about leveraging data and statistics to drive insights that improve systems and outcomes for individuals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I worked at Charles River Associates, an economic consulting firm, for six years before starting at UCLA. There I focused on regulation related to mergers, acquisitions, and antitrust litigation. I designed and conducted empirical analyses of market dynamics in a variety of industries on over 30 cases. I explored, cleaned, manipulated, and analyzed large, proprietary datasets (e.g., shipment data, transaction data, claims data, prescription data) to understand competition, pricing, and client operations. In this work, I modeled prices, demand, and willingness-to-pay to estimate effects of anticompetitive acts, potential mergers, and prevailing market conditions. While at CRA, I led teams, mentored junior staff, and developed my passion for analytics.
 
-### Markdown
+I did my undergrad at Boston College, where I studied Mathematics and Economics. There I did research with Bob Murphy related to whether inflation expectations respond rationally to food and energy price movements. This work was presented at the 2015 AEA Meetings in Boston and published in the Eastern Economic Journal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I grew up in Minnesota, lived in Boston for eight years, lived in the East Bay for 2 years, and moved to Los Angeles in the summer of 2019.
 
-```markdown
-Syntax highlighted code block
+I’m an ardent learner, avid reader, tennis enthusiast, drummer and acoustic guitar player, skier, yogi, aspiring surfer, watercolor painter, math tutor, pond hockey player, and lover of funk!
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
+Don’t hesitate to reach out!
+Los Angeles, CA
 
-1. Numbered
-2. List
+adamrohde@ucla.edu
 
-**Bold** and _Italic_ and `Code` text
+[UCLA Statistics](http://directory.stat.ucla.edu/active_students/single-page/?smid=1612)
 
-[Link](url) and ![Image](src)
-```
+[LinkedIn](https://www.linkedin.com/in/adam-rohde)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adam-Rohde/Adam-Rohde.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[GitHub](https://github.com/Adam-Rohde)
