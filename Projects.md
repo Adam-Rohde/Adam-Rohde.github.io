@@ -1,6 +1,6 @@
 ### [Home](README.md)
 
-Find my latest projects below!
+Find my latest projects below! More to come!
 
 ### Screening AlexNet Hyperparameters with MNIST
 with Ashley Chiu
