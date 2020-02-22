@@ -1,4 +1,4 @@
-### [Projects](Projects.md)
+### [Projects](Projects.md) | [Resume](docs/adam-r-rohde-resume.pdf)
 
 ![](images/scotland1_2.JPG)
 Isle of Skye, June 2019
