@@ -1,3 +1,5 @@
+### [Home](README.md)
+
 Find my latest projects below!
 
 ### Screening AlexNet Hyperparameters with MNIST
