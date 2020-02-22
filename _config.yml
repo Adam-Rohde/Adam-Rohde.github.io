@@ -1,12 +1,3 @@
 theme: jekyll-theme-minimal
 title: Adam Rohde
 description: Welcome! Learn a bit about me, reach out, and keep an eye on my projects!
-locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
-owner:
-  name: Adam Rohde
-  avatar: # filename of an image
-  bio: "This is my personal website."
-  email: adamrohde@ucla.edu
-  linkedin: adam-rohde
-  github: Adam-Rohde
