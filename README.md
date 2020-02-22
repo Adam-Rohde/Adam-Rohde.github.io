@@ -1,3 +1,5 @@
+![](images/scotland1_2.JPG)
+
 ### About Me
 
 I’m a graduate student in Statistics at UCLA. My research interests are causal inference, computational statistics, and machine learning. I’m passionate about leveraging data and statistics to drive insights that improve systems and outcomes for individuals.
