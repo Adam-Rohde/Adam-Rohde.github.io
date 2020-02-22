@@ -1,4 +1,4 @@
-![](images/scotland1_2.JPG)
+![](scotland1_2.JPG)
 
 ### About Me
 
