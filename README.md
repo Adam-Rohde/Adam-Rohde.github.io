@@ -18,6 +18,7 @@ I’m an ardent learner, avid reader, tennis enthusiast, drummer and acoustic gu
 ### Contact
 
 Don’t hesitate to reach out!
+
 Los Angeles, CA
 
 adamrohde@ucla.edu
