@@ -1,4 +1,5 @@
 ![](images/scotland1_2.JPG)
+Isle of Skye, June 2019
 
 ### About Me
 
@@ -24,3 +25,6 @@ adamrohde@ucla.edu
 [LinkedIn](https://www.linkedin.com/in/adam-rohde)
 
 [GitHub](https://github.com/Adam-Rohde)
+
+![](images/wi.jpg)
+Elkhart Lake, WI, July 2019
