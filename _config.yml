@@ -1,5 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 title: Adam Rohde
 description: Welcome! Learn a bit about me, reach out, and keep an eye on my projects!
-github:
-  is_project_page: false
+github: false
