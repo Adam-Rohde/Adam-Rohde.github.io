@@ -1,5 +1,4 @@
-#theme: jekyll-theme-minimal
-remote_theme: aidewoode/jekyll-theme-mint
+theme: jekyll-theme-dinky
 title: Adam Rohde
 description: Welcome! Learn a bit about me, reach out, and keep an eye on my projects!
 github:
