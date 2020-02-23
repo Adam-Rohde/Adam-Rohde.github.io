@@ -20,10 +20,6 @@ I grew up in Minnesota, lived in Boston for eight years, spent 2 years in Berkel
 
 Don’t hesitate to reach out!
 
-Los Angeles, CA
-
-adamrohde@ucla.edu
-
 [UCLA Statistics](http://directory.stat.ucla.edu/active_students/single-page/?smid=1612)
 
 [LinkedIn](https://www.linkedin.com/in/adam-rohde)
