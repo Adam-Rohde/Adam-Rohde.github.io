@@ -24,7 +24,11 @@ Los Angeles, CA
 
 adamrohde@ucla.edu
 
-[UCLA Statistics](http://directory.stat.ucla.edu/active_students/single-page/?smid=1612) | [LinkedIn](https://www.linkedin.com/in/adam-rohde) | [GitHub](https://github.com/Adam-Rohde)
+[UCLA Statistics](http://directory.stat.ucla.edu/active_students/single-page/?smid=1612)
+
+[LinkedIn](https://www.linkedin.com/in/adam-rohde)
+
+[GitHub](https://github.com/Adam-Rohde)
 
 --- 
 ![](images/wi.jpg)
