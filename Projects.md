@@ -2,7 +2,7 @@
 
 Find my latest projects below! More to come!
 
-
+---
 ### ATP Tennis Match Data Analysis (In Progress)
 
 We’ll explore ATP match level data from 1991 to 2020. Some of the questions we’ll look into include: 
@@ -20,6 +20,7 @@ We’ll also try to build a model for predictinig match winner. (Using DL, SVM, 
 
 [Repository](https://github.com/Adam-Rohde/ATP-Tennis)
 
+---
 ### Screening AlexNet Hyperparameters with MNIST
 with Ashley Chiu
 
@@ -32,7 +33,7 @@ We deploy an experimental approach to hyperparameter tuning in the context of Al
 
 ![](images/MNIST_Hyperparameters.PNG)
 
-
+---
 ### Rational Bias in Inflation Expectations
 with Robert Murphy
 
