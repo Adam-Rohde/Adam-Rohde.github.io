@@ -13,7 +13,7 @@ Over the course of the prior six years at [Charles River Associates](http://www.
 
 I did my undergrad at [Boston College](https://www.bc.edu/), where I studied Mathematics and Economics. There I did research with [Bob Murphy](https://www.bc.edu/bc-web/schools/mcas/departments/economics/people/faculty-directory/robert-murphy.html) related to whether inflation expectations respond rationally to food and energy price movements. This work was presented at the 2015 AEA Meetings in Boston and published in the [Eastern Economic Journal](https://link.springer.com/article/10.1057%2Feej.2015.50).
 
-I grew up in Minnesota, lived in Boston for eight years, spent 2 years Berkeley and Oakland, and moved to Los Angeles in the summer of 2019.
+I grew up in Minnesota, lived in Boston for eight years, spent 2 years in Berkeley and Oakland, and moved to Los Angeles in the summer of 2019.
 
 ---
 ### Contact
