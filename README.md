@@ -7,7 +7,7 @@ Isle of Skye, June 2019
 ---
 ### About Me
 
-I’m a graduate student in [Statistics at UCLA](http://statistics.ucla.edu/). My research interests are causal inference, Bayesian Modeling, and machine learning. I’m excited about leveraging data to drive insights that improve systems and outcomes for individuals.
+I’m a graduate student in [Statistics at UCLA](http://statistics.ucla.edu/). My research interests are causal inference, Bayesian modeling, and machine learning. I’m excited about leveraging data to drive insights that improve systems and outcomes for individuals.
 
 Over the course of the prior six years at [Charles River Associates](http://www.crai.com/), my work focused on data science related to mergers, acquisitions, and antitrust litigation. This consisted of designing and conducting empirical analyses of market dynamics in a variety of industries. Working with [Sandra Chan](http://www.crai.com/expert/sandra-chan) among others, much of my work was in the healthcare space. My responsibilities included exploring, cleaning, manipulating, and analyzing large client datasets (e.g., shipment data, transaction data, claims data, prescription data) to understand competition, pricing, and client operations. Analyses included modeling prices, demand, willingness-to-pay, market share, market size, and other key factors to estimate effects of anticompetitive acts, potential mergers, and prevailing market conditions.
 
