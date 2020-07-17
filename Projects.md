@@ -23,6 +23,17 @@ I explore and analyze ATP match level data from 1968 to 2020. The goal is to hav
 
 
 ---
+### Modern Model-Based Bayesian Causal Inference for Randomized Experiments with Hamiltonian Monte Carlo in Stan
+
+We explore the components of modern model-based Bayesian causal inferenece with a focus on randomized experiments. We discuss the potential outcomes framework, the Bayesian approach to causal inference, the MCMC sampling method Hamiltonian Monte Carlo, and the Stan probabilistic programming language. We also work through a simple example to illustrate how these components come together.
+
+[Paper](docs/Bayesian-Causal-Inference-for-Randomized-Experiments-with-HMC.pdf)
+
+[Repository](https://github.com/Adam-Rohde/Bayesian-Causal-Inference-for-Randomized-Experiments-with-HMC)
+
+![](images/PosteriorDistributions.PNG)
+
+---
 ### Political Extremism and Election System: A Study of Confounding of the Results of Single Round versus Runoff Elections under Plurality Rule
 with Xuan Huynh, Andrew Shapiro, and Brandon Thoma
 
