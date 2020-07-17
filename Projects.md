@@ -1,6 +1,6 @@
 ### [Home](README.md)
 
-Find my latest projects below! More to come!
+Find my latest projects below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
 ---
 ### ATP Tennis Match Data Analysis (In Progress)
