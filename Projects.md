@@ -5,7 +5,7 @@ Find my latest projects below! More to come! See my resume for brief description
 ---
 ### ATP Tennis Match Data Analysis (In Progress)
 
-I explore and analyze ATP match level data from 1991 to 2020. The work will include
+I explore and analyze ATP match level data from 1968 to 2020. The goal is to have some fun exploring historical match data and to see what interesting trends we can uncover. The work I've done so far and hope to do includes:
 
 * Explore the data.
 * Cleaning the data and building a database.
@@ -20,6 +20,21 @@ I explore and analyze ATP match level data from 1991 to 2020. The work will incl
 * Build a web app that provides player profiles, match up predictions, match up histories, Elo ratings, other fun things.  (In Progress)
 
 [Repository](https://github.com/Adam-Rohde/ATP-Tennis)
+
+
+---
+### Political Extremism and Election System: A Study of Confounding of the Results of Single Round versus Runoff Elections under Plurality Rule
+with Xuan Huynh, Andrew Shapiro, and Brandon Thoma
+
+The conclusions of Bordignon, Nannicini, and Tabellini (2016) with respect to the effects of runoff elections on political participation and policy volatility provide informative results that positively add to the discussion of the benefits of different electoral systems on societal political behavior and economic stability. The sensitivity of the authors’ results survive the most common robustness challenges under a Regression Discontinuity Design, yet unobserved confounding ultimately remains possible but unable to be fully explored due to lack of Italian-specific knowledge. Additional studies are ultimately necessary to validate the results for a more recent Italian electorate, and to study the ability to generalize such results to countries outside of Italy.
+
+[Paper](docs/Political-Extremism-and-Election-System.pdf)
+
+[Slides](docs/Political-Extremism-and-Election-System-Slides.pdf)
+
+[Repository](https://github.com/Adam-Rohde/Political-Extremism-and-Election-System)
+
+![](images/lowess_sep.png)
 
 
 ---
