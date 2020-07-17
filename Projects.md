@@ -21,6 +21,19 @@ I explore and analyze ATP match level data from 1991 to 2020. The work will incl
 
 [Repository](https://github.com/Adam-Rohde/ATP-Tennis)
 
+
+---
+### Cooking Up Recipes: A Recipe Recommender Based on Text Similarity
+with Ashley Chiu and Ritvik Kharkar
+
+In this project we use a range natural language processing techniques (bag of words, Doc2vec, recurrent neural networks-based LSTM models, and pre-trained language model BERT) to learn vector space embeddings for cooking recipes. We use these embeddings to determine similarity between recipes and recommend such similar recipes, based on user input to a web demo app. We assess the quality of recommendations and embeddings by human review, PCA, and cluster analysis, finding that our models produced mixed results. Generally, simpler models seem to perform best.
+
+[Paper](docs/Cooking-Up-Recipes-A-Recipe-Recommender-Based-on-Text-Similarity.pdf)
+
+[Repository](https://github.com/Adam-Rohde/nlp-recipe-project)
+
+![](images/principal_comps.png)
+
 ---
 ### SVD-Based Watermarking Schemes
 with Ian McGovern and Annie Zhang
