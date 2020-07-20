@@ -6,7 +6,7 @@ Find my latest projects below! More to come! See my resume for brief description
 ---
 ### ATP Tennis Match Data Analysis (In Progress)
 
-I explore and analyze ATP match level data from 1968 to 2020. The goal is to have some fun exploring historical match data and to see what interesting trends we can uncover. The work I've done so far and hope to do includes:
+I explore and analyze ATP match level data from 1968 to 2020. The goal is to have some fun exploring historical match data and to see what interesting trends we can uncover. The code and discussion of results are all in Jupyter notebooks at this point (see repository). The work I've done so far and hope to do includes:
 
 * Explore the data.
 * Cleaning the data and building a database.
@@ -22,6 +22,7 @@ I explore and analyze ATP match level data from 1968 to 2020. The goal is to hav
 
 [Repository](https://github.com/Adam-Rohde/ATP-Tennis)
 
+![](images/EloRatingsByAge.png)
 
 ---
 ### Modern Model-Based Bayesian Causal Inference for Randomized Experiments with Hamiltonian Monte Carlo in Stan
