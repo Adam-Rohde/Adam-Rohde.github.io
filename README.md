@@ -1,4 +1,4 @@
-### [Projects](Projects.md) | [Resume](docs/Adam_R_Rohde_Resume.pdf)
+### [Home](README.md) | [Projects](Projects.md) | [Resume](docs/Adam_R_Rohde_Resume.pdf)
 
 ---
 ![](images/scotland1_2.JPG)
