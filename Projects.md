@@ -5,6 +5,18 @@
 
 Find my latest projects below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
+### Building a Sensitivity Framework for Selection and Omitted Variable Bias (In Progress)
+with Chad Hazlett
+
+Goal is to build a sensitivity framework forselection bias and omitted variable bias together using path tracing rules for directed acyclic graphs or structural equation models. The framework will allow for sensitivity analysis of the two types of bias seperately or together and shifts discussion toward evaluating how strong confounding or selection would have to be to alter the results
+
+---
+### Big Data Big Problems (In Progress)
+with Chad Hazlett and Carlos Cinelli
+
+Building off of Cinelli and Hazlett (2020), we use sensitivity analysis in linear regression models to highlight a simple fact: large samples make it more likely that weak (or spurious) relationships will be statistically significant, which can mislead practitioners. Discussion of effect importance ought to incorporate uncertainty from identification as well as estimation. The focus of this paper is to demonstrate that this becomes increasingly more important as sample size increases.
+
+---
 ### ATP Tennis Match Data Analysis (In Progress)
 
 I explore and analyze ATP match level data from 1968 to 2020. The goal is to have some fun exploring historical match data and to see what interesting trends we can uncover. The code and discussion of results are all in Jupyter notebooks at this point (see repository). The work I've done so far and hope to do includes:
