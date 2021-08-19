@@ -5,10 +5,17 @@
 
 Find my latest projects below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
-### Building a Sensitivity Framework for Selection and Omitted Variable Bias (In Progress)
+
+### Internal Validiy and Sample Selection Bias (In Progress)
 with Chad Hazlett
 
-Goal is to build a sensitivity framework forselection bias and omitted variable bias together using path tracing rules for directed acyclic graphs or structural equation models. The framework will allow for sensitivity analysis of the two types of bias seperately or together and shifts discussion toward evaluating how strong confounding or selection would have to be to alter the results
+Goal is to argue that internal causal quantities (causal quantities for the selected sample only) are of interest in many settings, that sample selection poses a threat to internal validity and hence that sample selection should be included in all causal models, and to present a formal criterion for determining recoverability from sample selection for internal causal quantities as well as lessons and examples for applied researchers. 
+
+---
+### Sensitivity Analysis for Internal Sample Selection Bias (In Progress)
+with Chad Hazlett
+
+Goal is to build a sensitivity analysis framework for internal sample selection bias by showing how certain types of internal sample selection bias can be viewed as omitted variable or common cause confounder bias. Focus is on how regression coefficients change when relevant variables are omitted and the user considers relationships of varying strengths between the treatment and confounder and outcome and confounder. Difficulties in interpretability of sensitivity parameters arise do to the nature of how sample selection of this sort manifests as confounding (i.e., via conditioning on a collider). 
 
 ---
 ### Big Data Big Problems (In Progress)
