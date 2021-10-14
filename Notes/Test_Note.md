@@ -7,3 +7,4 @@ test test test
  FROM sys.tables
  WHERE [name] = 'SomeTable'
  ```
+$Y= mX + b$
