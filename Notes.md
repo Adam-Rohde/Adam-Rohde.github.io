@@ -12,4 +12,4 @@ We discuss the potential outcomes framework from first principles. We discuss ho
 --- 
 
 ### Inverse Probability Weighting (IPW)
-This note takes a look at the mechanics and intuition behind IPW as a method for achieving covariate balance and conditional ignorability. [Link](xxx https://adam-rohde.github.io/Notes/IPW--2021-10-13-.html) 
+This note takes a look at the mechanics and intuition behind IPW as a method for achieving covariate balance and conditional ignorability. [Link](____https://adam-rohde.github.io/Notes/IPW--2021-10-13-.html) 
