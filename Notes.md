@@ -7,4 +7,4 @@ Here is where I'll be posting "notes" of varying length that dig into topics in 
 
 ---
 
-This is a test. [Link](https://github.com/Adam-Rohde/Notes/blob/main/IPW--2021-10-13-.html) 
+This is a test. [Link](Adam-Rohde/Notes/IPW--2021-10-13-.html) 
