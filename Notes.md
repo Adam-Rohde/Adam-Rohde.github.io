@@ -7,4 +7,4 @@ Here is where I'll be posting "notes" of varying length that dig into topics in 
 
 ---
 
-This is a test. [Link](Notes/Test Note.md) 
+This is a test. [Link](Notes/Test_Note.md) 
