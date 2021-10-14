@@ -7,9 +7,9 @@ Here is where I'll be posting "notes" of varying length that dig into topics in 
 
 
 ### The Potential Outcomes Approach to Causal Inference
-We discuss the potential outcomes framework from first principles. We discuss how this framework thinks about causality, the core problems at issue, assumptions, and causal effects of interest.  [Link](https://adam-rohde.github.io/Notes/IPW--2021-10-13-.html) 
+We discuss the potential outcomes framework from first principles. We discuss how this framework thinks about causality, the core problems at issue, assumptions, and causal effects of interest.  [Link](xxx) 
 
 --- 
 
 ### Inverse Probability Weighting (IPW)
-This note takes a look at the mechanics and intuition behind IPW as a method for adjusting for achieving covariate balance and conditional ignorability. [Link](https://adam-rohde.github.io/Notes/IPW--2021-10-13-.html) 
+This note takes a look at the mechanics and intuition behind IPW as a method for achieving covariate balance and conditional ignorability. [Link](xxx https://adam-rohde.github.io/Notes/IPW--2021-10-13-.html) 
