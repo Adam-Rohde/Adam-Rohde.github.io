@@ -7,7 +7,7 @@ Here is where I'll be posting "notes" of varying length that dig into topics in 
 
 
 ### The Potential Outcomes Approach to Causal Inference
-We discuss the potential outcomes framework from first principles. We discuss how this framework thinks about causality, the core problems at issue, assumptions, and causal effects of interest.  [Link](xxx) 
+We discuss the potential outcomes framework from first principles. We discuss how this framework thinks about causality, the core problems at issue, assumptions, and causal effects of interest.  [Link](https://adam-rohde.github.io/Notes/Potential-Outcomes-Framework--2021-10-13-.html) 
 
 --- 
 
