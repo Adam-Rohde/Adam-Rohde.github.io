@@ -6,6 +6,18 @@
 Find my latest projects below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
 
+### Sample Selection and Instrumental Variable Estimates within the Sample: Threats and Opportunities (In Progress)
+with Chad Hazlett
+
+The instrumental variables approach has been presented as a potential solution to suspicions that standard causal effect estimates may be biased by unobserved confounders. The requirements for a valid instrumental variable are demanding. Even when these demands are met, we typically estimate such an effect from a sample of units, which is selected in some not necessarily random way. To address the question of whether the sample selection process biases the instrumental variables estimate as it pertains to the sample in hand, we need a formal and rigorous framework for determining when causal effect estimates in the given sample have been biased by sample selection processes, when the correct estimate can be recovered, and how. To this end we propose formal graphical criteria for unbiased, internally
+valid instrumental variables estimates, and provide tools enabling researchers to easily determine how sample
+selection may bias their estimates across their study sample, as well as what might
+be able to be done to correct any bias.
+
+
+---
+
+
 ### Revisiting Sample Selection as a Threat to the Validity of Causal Effect Estimates: An Adjustment Criterion (In Progress)
 with Chad Hazlett
 
@@ -21,12 +33,13 @@ effect averaged over the sample in hand. While different research traditions hav
 guidelines for determining when sample selection threatens internal validity, it is now possible to
 conduct a more formal and rigorous treatment that determines when causal effect estimates in the
 given sample have been biased by sample selection processes, when the correct estimate can be
-recovered, and how. To this end we propose a formal graphical criteria for unbiased, internally
+recovered, and how. To this end we propose a formal graphical criterion for unbiased, internally
 valid causal effect estimates, and provide tools enabling researchers to easily determine how sample
 selection may bias their estimates of causal effects across their study sample, as well as what might
 be able to be done to correct any bias.
 
 ---
+
 ### Sensitivity Analysis for Endogenous Sample Selection Bias (In Progress)
 with Chad Hazlett
 
