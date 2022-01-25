@@ -6,7 +6,7 @@
 Find my latest projects below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
 
-### Sample Selection and Instrumental Variable Estimates within the Sample: Threats and Opportunities (In Progress)
+### Sample Selection and Instrumental Variable Estimates within the Sample: Threats to Validity and Opportunities (In Progress)
 with Chad Hazlett
 
 The instrumental variables approach has been presented as a potential solution to suspicions that standard causal effect estimates may be biased by unobserved confounders. The requirements for a valid instrumental variable are demanding. Even when these demands are met, we typically estimate such an effect from a sample of units, which is selected in some not necessarily random way. To address the question of whether the sample selection process biases the instrumental variables estimate as it pertains to the sample in hand, we need a formal and rigorous framework for determining when causal effect estimates in the given sample have been biased by sample selection processes, when the correct estimate can be recovered, and how. To this end we propose formal graphical criteria for unbiased, internally
