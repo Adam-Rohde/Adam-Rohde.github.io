@@ -13,8 +13,8 @@ We discuss the potential outcomes framework from first principles. We discuss ho
 
 --- 
 
-### Overview of Causal Inference
-We discuss the potential outcomes framework from first principles. We discuss how this framework thinks about causality, the core problems at issue, assumptions, and causal effects of interest.  [Link](Notes/Potential-Outcomes-Framework--2021-10-13-.html) 
+### Overview of Observational Causal Inference
+This note covers why observational causal inference is important, potential outcomes, identification and estimation strategies.  [Link](Notes/Causal-Inference.html) 
 
 --- 
 
