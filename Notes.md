@@ -8,8 +8,10 @@ Here is where I'll be posting "notes" of varying length that dig into topics in 
 <span style="color: red;"> These are incomplete and include reminders to myself and callouts for items to be filled in. Hopefully they'll become more polished over time!   </span>
 
 
-### The Potential Outcomes Approach to Causal Inference
-We discuss the potential outcomes framework from first principles. We discuss how this framework thinks about causality, the core problems at issue, assumptions, and causal effects of interest.  [Link](Notes/Potential-Outcomes-Framework--2021-10-13-.html) 
+
+
+### Overview of Experimental Design
+This note provides an overview of experimental design including key principles, basic statistics, parametric hypothesis testing, ANOVA, randomization tests, and factorial designs.  [Link](Notes/Experimental-Design.html) 
 
 --- 
 
@@ -17,6 +19,11 @@ We discuss the potential outcomes framework from first principles. We discuss ho
 This note covers why observational causal inference is important, potential outcomes, identification and estimation strategies.  [Link](Notes/Causal-Inference.html) 
 
 --- 
+
+### The Potential Outcomes Approach to Causal Inference
+We discuss the potential outcomes framework from first principles. We discuss how this framework thinks about causality, the core problems at issue, assumptions, and causal effects of interest.  [Link](Notes/Potential-Outcomes-Framework--2021-10-13-.html) 
+
+---
 
 
 ### Inverse Probability Weighting (IPW)
