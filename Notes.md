@@ -34,5 +34,5 @@ This note takes a look at the mechanics and intuition behind IPW as a method for
 
 
 ### Code Bits
-What it sounds like. Bits of code that I've used over the years when I forget syntax and things - organization is not great and there is no formatting. Beware! I try to attribute where things came from and do not claim everything to be mine. [Python Code Bits](Notes/Python-Code-Bits.html); [R Code Bits](Notes/R-Code-Bits.html) 
+What it sounds like. Bits of code that I've used over the years when I forget syntax and things - organization is not great and there is no formatting. Beware! I try to attribute where things came from (but might fall short in some cases); I do not claim everything to be mine. [Python Code Bits](Notes/Python-Code-Bits.html); [R Code Bits](Notes/R-Code-Bits.html); [SAS Code Bits](Notes/SAS-Code-Bits.html); [Stata Code Bits](Notes/Stata-Code-Bits.html) 
 
