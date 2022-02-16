@@ -3,10 +3,7 @@
 
 ---
 
-Here is where I'll be posting "notes" of varying length that dig into topics in causal inference, machine learning, statistical computation, and other areas I find interesting.
-
-<span style="color: red;"> These are incomplete and include reminders to myself and callouts for items to be filled in. Hopefully they'll become more polished over time!   </span>
-
+Here is where I'll be posting "notes" of varying length that dig into topics in causal inference, machine learning, statistical computation, and other areas I find interesting or useful.
 
 
 
