@@ -12,6 +12,12 @@ This note provides an overview of experimental design including key principles, 
 
 --- 
 
+### Causal Inference Fundamentals
+This note provides an overview of foundational ideas in causal inference. I discuss potential outcomes, target causal estimands, the structural causal model, DAGs, Twin Networks, SWIGs, and the adjustment criterion. [Link](Notes/Causal-Inference-Fundamentals.html) 
+
+--- 
+
+
 ### Data Explotation in R
 This note covers how I approach data exploration using tools in R. The focus is on exploring a dataset starting from zero. [Link](Notes/Data-Exploation---R.html) 
 
