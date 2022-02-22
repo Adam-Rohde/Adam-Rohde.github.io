@@ -33,6 +33,8 @@ Don’t hesitate to reach out!
 
 [GitHub](https://github.com/Adam-Rohde)
 
+[Twitter](https://twitter.com/_adam_rohde)
+
 --- 
 ![](images/wi.jpg)
 Elkhart Lake, WI, July 2019
