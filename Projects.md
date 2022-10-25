@@ -32,7 +32,7 @@ The instrumental variables approach has been presented as a potential solution t
 ### Stanford CISIL Data Challenge 2022
 with David Ami Wulf, Pablo Geraldo, Sarah Sotoudeh, Chad Hazlett, and Onyebuchi Arah
 
-Studied causal relationship between King County Metro Transit fare reinstatement on October 1, 2020 and ridership overall and by socio-economic group. Used an interrupted time series design and a variety of estimation strategies.
+Studied causal relationship between King County Metro Transit fare reinstatement on October 1, 2020 and ridership overall and by socio-economic group. Used an interrupted time series design and a variety of estimation strategies. Personal contribution: designed, conducted, and wrote up interrupted time series analyses. 
 
 
 [Paper](docs/CISIL_Q1_Methods.pdf)
