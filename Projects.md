@@ -6,56 +6,42 @@
 Find my latest projects below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
 
-### Sample Selection and Instrumental Variable Estimates within the Sample: Threats to Validity and Opportunities (In Progress)
+### Revisiting Sample Selection as a Threat to Internal Validity (draft forthcoming soon)
 with Chad Hazlett
 
-The instrumental variables approach has been presented as a potential solution to suspicions that standard causal effect estimates may be biased by unobserved confounders. The requirements for a valid instrumental variable are demanding. Even when these demands are met, we typically estimate such an effect from a sample of units, which is selected in some not necessarily random way. To address the question of whether the sample selection process biases the instrumental variables estimate as it pertains to the sample in hand, we need a formal and rigorous framework for determining when causal effect estimates in the given sample have been biased by sample selection processes, when the correct estimate can be recovered, and how. To this end we propose formal graphical criteria for unbiased, internally
-valid instrumental variables estimates, and provide tools enabling researchers to easily determine how sample
-selection may bias their estimates across their study sample, as well as what might
-be able to be done to correct any bias. While highlighting the high bar for instrument validity, our framework also illuminates suprising opportunities for the use of instrumental variables approaches.
+Researchers often seek to estimate the effect of a treatment on an outcome within a sample that has been drawn in some selective way from a (well-defined or hypothetical) larger population. Such selective sampling not only changes the population about which we make inferences, but can bias our estimate of the causal effect for the units in the sample. This is problematic both because investigators may be primarily interested in questions about unbiasedly estimating the effect in the observed sample (i.e. "internally valid", Campbell (1957)) or because it is not possible to know what the effect would be in any other population if we cannot first obtain an unbiased estimate in the observed sample---a result we formalize below. That selective sampling can threaten even internal validity has long been known, and over the decades different research traditions have offered guidelines for assessing the threats to internal validity posed by sample selection. We employ formal tools from the theory of causal inference to more fully and rigorously characterize the (i) the settings in which selective sampling does and does not bias the "internal effect estimate," and (ii) the conditions under which this bias can theoretically be corrected, and how to do so. These results are collectively conveyed through graphical criterion that investigators can apply on their own to examine the threats to bias and opportunities for correction given a graphical causal model.
 
 
 ---
 
-
-### Revisiting Sample Selection as a Threat to the Validity of Causal Effect Estimates in the Sample: An Adjustment Criterion, Examples, and Lessons (In Progress)
+### Sensitivity Analysis for Sample Selection and Internal Validity (in progress)
 with Chad Hazlett
 
-Researchers often seek to estimate the causal effect of some treatment on some outcome. Typically,
-we estimate such an effect from a sample of units, which is selected in some not necessarily random
-way. In recent years, considerable attention has been given to the challenges of either generalizing
-these estimates to the population from which the sample was selected or "transporting" them to
-another population of interest. However, another long-standing concern of central interest to many
-investigators is whether the sample selection process also biases the causal effect estimate even as it
-pertains to the sample in hand. In keeping with research traditions in a number of disciplines, we
-consider the property of "internal validity," meaning that an estimate is unbiased for the target causal
-effect averaged over the sample in hand. While different research traditions have proposed informal
-guidelines for determining when sample selection threatens internal validity, it is now possible to
-conduct a more formal and rigorous treatment that determines when causal effect estimates in the
-given sample have been biased by sample selection processes, when the correct estimate can be
-recovered, and how. To this end we propose a formal graphical criterion for unbiased, internally
-valid causal effect estimates, and provide tools enabling researchers to easily determine how sample
-selection may bias their estimates of causal effects across their study sample, as well as what might
-be able to be done to correct any bias.
+As identified by above project, sample selection bias is central threat to the internal validity of causal effect estimates. When covariate adjustment using observed data is insufficient to identify causal effects due to sample selection, we suggest that researchers use sensitivity analysis. In this paper we [1] show formally how sample selection (and confounding) of any sort for internal validity can be treated as an omitted variable problem, [2] illustrate how the previous point means we can leverage existing sensitivity analysis frameworks that rely on the omitted variable paradigm (e.g., Cinelli and Hazlett (2020) and Chernozhukov et al (2022)) for sample selection, [3] discuss how the sensitivity parameters in such frameworks, in the sample selection setting, can be uninterpretable, and [4] show how to bound these uninterpretable parameters with something more easily interpreted. 
 
 ---
 
-### Sensitivity Analysis for Endogenous Sample Selection Bias (In Progress)
+
+### Instrumental Variables under Sample Selection: Graphs, Threats, and Opportunities (in progress)
 with Chad Hazlett
 
-Endogenous sample selection bias is central threat to the internal validity of causal effect estimates as they pertain to the selected sample in hand. We aim to develop an intuitive sensitivity analysis framework to evaluate how estimated regression coefficients maybe biased in light of potential violations to the assumption of no endogenous selection bias. We show that this can be cast in an omitted variables framework and that bias can be parameterized simply. We then explore difficulties in the interpretation of one of these parameters. We show that various additional assumptions can allow for improved interpretation and discuss bounding.
+The instrumental variables approach has been presented as a potential solution to suspicions that standard causal effect estimates may be biased by unobserved confounders. The requirements for a valid instrumental variables approach to overcome unobserved confounding are demanding. Even when these demands are met, we typically estimate such an effect from a sample of units, which is selected in some not necessarily random way. A long-standing concern of central interest to many investigators is whether the sample selection process biases causal effect estimates even as they pertain to the sample in hand. In keeping with research traditions in a number of disciplines, we consider the property of "internal validity," meaning that an estimate is unbiased for the target causal effect averaged over the sample in hand. Whether the sample selection process biases the instrumental variables estimate as it pertains to the sample in hand and whether any sample selection bias between a treatment and outcome can be corrected by an instrumental variables approach are questions that require a more rigorous framework of analysis than currently exists. We need a framework for determining when instrumental variables estimates in the given sample have been biased by sample selection processes, when the correct estimate can be recovered, and how. To this end we propose formal graphical criteria focused on the internal validity of instrumental variables, and provide tools enabling researchers to easily determine how sample selection may threaten this validity, as well as what might be able to be done about it. While highlighting the high bar for instrument validity, our framework also illuminates opportunities for the use of instrumental variables approaches that have not been widely discussed in the literature.
+
 
 ---
-### An Extension to Stability Controlled Quasi Experiments (In Progress)
-with Chad Hazlett
+### Stanford CISIL Data Challenge 2022
+with David Ami Wulf, Pablo Geraldo, Sarah Sotoudeh, Chad Hazlett, and Onyebuchi Arah
 
-Stability controlled quasi experiments (SCQEs) have been used to study newly adopted nonrandomized treatments. They rely on a "baseline trend" assumption on the change in average nontreatment potential outcome over two time periods in which data is available (one in which no one has been treated and one in which the treatment has begun to be adopted). We expand this framework to cover cessation of treatment across the time periods. In previous SCQEs, the average treatment effect among the treated has been identified. We show how the average treatment effect among the untreated and across the entire population can be identified using similar trend assumptions. We aim to illustrate this method using data on smoking cessation.
+Studied causal relationship between King County Metro Transit fare reinstatement on October 1, 2020 and ridership overall and by socio-economic group. Used an interrupted time series design and a variety of estimation strategies.
 
----
-### Big Data Big Problems (In Progress)
-with Chad Hazlett and Carlos Cinelli
 
-Building off of Cinelli and Hazlett (2020), we use sensitivity analysis in linear regression models to highlight a simple fact: large samples make it more likely that weak (or spurious) relationships will be statistically significant, which can mislead practitioners. Discussion of effect importance ought to incorporate uncertainty from identification as well as estimation. The focus of this paper is to demonstrate that this becomes increasingly more important as sample size increases.
+[Paper](https://link.springer.com/article/10.1057%2Feej.2015.50)
+
+![](images/Rational_Bias_Chart.PNG)
+
+
+
+
 
 ---
 ### Rational Bias in Inflation Expectations
