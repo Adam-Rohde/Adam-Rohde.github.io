@@ -35,9 +35,9 @@ with David Ami Wulf, Pablo Geraldo, Sarah Sotoudeh, Chad Hazlett, and Onyebuchi 
 Studied causal relationship between King County Metro Transit fare reinstatement on October 1, 2020 and ridership overall and by socio-economic group. Used an interrupted time series design and a variety of estimation strategies.
 
 
-[Paper](https://link.springer.com/article/10.1057%2Feej.2015.50)
+[Paper](docs/CISIL_Q1_Methods.pdf)
 
-![](images/Rational_Bias_Chart.PNG)
+![](images/Total Boardings and Alightings by Date.png)
 
 
 
