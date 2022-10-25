@@ -6,6 +6,17 @@
 Here is where I'll be posting "notes" of varying length that dig into topics in causal inference, machine learning, statistical computation, and other areas I find interesting or useful.
 
 
+### Causal Inference Discussion Section Slides
+These are slides prepared as part of TAing STATS 420 Causal Inference in Social Science Practice. Note that much of the material draws heavily from the sources listed at the beginning of each slide deck. These slides were created for teaching purposes only. 
+
+* [Probability Review](docs/Probability_Review.pdf) 
+* [Stats, Matrix Algebra, and Regression Review](docs/Statistics__Matrix_Algebra__and_Regression_Review.pdf) 
+* [OLS and Inference Review](docs/OLS_Results_and_Inference.pdf) 
+* [Potential Outcomes Review](docs/Potential_Outcomes_Review.pdf) 
+* [Simple Graphical Models Review](docs/Crash_Course_Review.pdf) 
+
+--- 
+
 
 ### Overview of Experimental Design
 This note provides an overview of experimental design including key principles, basic statistics, parametric hypothesis testing, ANOVA, randomization tests, and factorial designs.  [Link](Notes/Experimental-Design.html) 
