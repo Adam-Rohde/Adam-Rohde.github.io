@@ -14,7 +14,8 @@ These are slides prepared as part of TAing STATS 420 Causal Inference in Social 
 * [OLS and Inference Review](docs/OLS_Results_and_Inference.pdf) 
 * [Potential Outcomes Review](docs/Potential_Outcomes_Review.pdf) 
 * [Simple Graphical Models Review](docs/Crash_Course_Review.pdf) 
-
+* [FWL and OVB Review](docs/FWL and OVB.pdf) 
+* 
 --- 
 
 
