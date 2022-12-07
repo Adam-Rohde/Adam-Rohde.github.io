@@ -20,7 +20,7 @@ with Chad Hazlett
 
 Researchers often seek to estimate the effect of a treatment on an outcome within a sample that has been drawn in some selective way from a larger population. Such selective sampling not only changes the population about which we make inferences, but can bias our estimate of the causal effect for the units in the sample, thus threatening the “internal validity” of the estimate (Campbell (1957)). Further, it is not possible to know what the causal effect would be in any other population of eventual interest if we cannot first obtain an unbiased estimate in the observed sample—a result we formalize below. That selective sampling can threaten even internal validity has long been known, and over the decades different research traditions have offered guidelines for assessing the threats to internal validity posed by sample selection. We employ formal graphical tools for causal reasoning to more fully and rigorously characterize the (i) the settings in which selective sampling does and does not bias the “internal effect estimate”, and (ii) the conditions under which this bias can theoretically be corrected, and how to do so. These results are collectively conveyed through a graphical criterion that investigators can apply in their circumstances to examine the threats to bias and opportunities for correction given a graphical causal model. A number of common lessons emerge, including that many forms of selection, including selection processes influenced by the treatment or a mediator, are not always problematic. That said, the central lesson is that many complications may arise, requiring the researcher to to use these tools to examine how selection processes bias the result or can be corrected under specific causal structures the user cannot reject as plausible.
 
-[Draft](docs/Revisiting_Sample_Selection_as_a_Threat_to_Internal_Validity (2022-12-06).pdf)
+[Draft](docs/Revisiting_Sample_Selection_as_a_Threat_to_Internal_Validity.pdf)
 
 ---
 
@@ -29,7 +29,7 @@ with Chad Hazlett
 
 Sample selection is a common threat to the internal validity of causal effect estimates. While Rohde and Hazlett (20XX) discusses these threats at length and provides guidance on how covariate adjustment can be use to address them, what should researchers do when observed covariates are insufficient to eliminate these threats? We show how researchers can use omitted variable based sensitivity analyses to do this. In particular, we discuss the omitted variable based sensitivity analyses of Cinelli and Hazlett (2020) and Chernozhukov et al. (2022) and how these can be leveraged to evaluate threats from sample selection. However, since sample selection as a threat to internal validity is typically the result of collider stratification, the parameters in such sensitivity analyses can be difficult to interpret. We show how more interpretable expressions for the sensitivity parameters in these frameworks can be derived in some simple, parametric settings. Using these as a guide, we also propose bounds on the parameters for general, non-parametric settings using notions from information theory. A worked example and discussion are provided.
 
-[Draft](docs/Sensitivity_Analysis_for_Sample_Selection_and_Internal_Validity (2022-12-06).pdf)
+[Draft](docs/Sensitivity_Analysis_for_Sample_Selection_and_Internal_Validity.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ with Chad Hazlett
 
 In this paper, we discuss interesting cases in which sample selection presents opportunities to use instrumental variables and in which using instrumental variables can be used to overcome sample selection. However, we discuss how these opportunities may arise only in very specific settings, as is the case for credible instrumental variables in general. We also discuss the numerous threats that sample selection can pose to the credibility of instrumental variable approaches. To facilitate this discussion, we revise existing graphical criteria for instrumental variables to highlight the special role that sample selection plays in the instrumental variables setting. We do this by first introducing an extension to typical causal graphs that visualizes how sample selection alters the relationships between variables in the sample. We then provide rules (graphical criteria) that allow researchers to use these extended graphs to evaluate the key assumptions of instrumental variables in their own applications, while responsibly accounting for sample selection. In this way, we generalize recent discussions of sample selection and instrumental variables and connect these to existing graphical criteria. Moreover, we emphasize the importance of including a sample selection node in all causal graphs, warn of the dangers of applying simple heuristics about sample selection, and suggest that practitioners appeal to formal approaches like those we present to understand how sample selection may threaten the validity of instrumental variables in their specific applications.
 
-[Draft](docs/Instrumental_Variables_and_Sample_Selection (2022-12-06).pdf)
+[Draft](docs/Instrumental_Variables_and_Sample_Selection.pdf)
 
 ---
 ### Stanford CISIL Data Challenge 2022
