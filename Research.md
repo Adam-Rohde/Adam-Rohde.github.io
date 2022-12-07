@@ -1,9 +1,9 @@
-### [Home](README.md) | [Projects](Projects.md) | [Notes](Notes.md) | [Resume](docs/Adam_R_Rohde_Resume.pdf)
+### [Home](README.md) | [Research](Research.md) | [Notes](Notes.md) | [Resume](docs/Adam_R_Rohde_Resume.pdf)
 
 
 ---
 
-Find my latest projects below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
+Find my latest research below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
 
 ### Twitter readers' experience of algorithmic amplification of US politicians over time (draft forthcoming soon)
