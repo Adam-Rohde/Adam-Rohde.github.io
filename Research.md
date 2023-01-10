@@ -6,6 +6,16 @@
 Find my latest research below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
 
+### Placebo Outcome and Treatment Sensitivity Analyses (draft forthcoming soon)
+with Chad Hazlett
+
+When researchers are interested in estimating the effect of some treatment on some outcome, it is possible to appeal to placebo outcomes (or negative outcome controls) or placebo treatments to help identify the causal effect of interest.  
+When placebo outcomes are available, standard practice is to make assumptions of equality of confounding between the treatment and outcome and the treatment and placebo outcome in addition to assumptions that there is no direct effect of the treatment on the placebo outcome. Difference in difference approaches make equivalent assumptions. But why must we make such strict assumptions? 
+In this paper, we leverage the regression omitted variable bias framework to relax these assumptions in a variety of ways. We provide a sensitivity analysis or partial identification framework with which we can explore how our estimate may change due to unobserved confounding. The framework  incorporates the placebo outcomes and assumptions on relative strengths of confounding, rather than strict equality of confounding. We also draw clear connections with the difference in difference identification strategy, provide a similar partial identification framework when placebo treatments are available, discuss a substantive example, and provide software with which researchers can apply these methods to their own applications. 
+
+
+---
+
 ### Twitter readers' experience of algorithmic amplification of US politicians over time (draft forthcoming soon)
 with Luca Belli
 
