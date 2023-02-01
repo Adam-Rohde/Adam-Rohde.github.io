@@ -13,6 +13,8 @@ Research:
 * Instrumental Variables with Sample Selection: Opportunities, Threats, and Graphs (with Chad Hazlett) [Draft](docs/Instrumental_Variables_and_Sample_Selection.pdf)
 * Rational Bias in Inflation Expectations (with Robert Murphy) [Paper](https://link.springer.com/article/10.1057%2Feej.2015.50), [Final Working Version](docs/Rational-Bias-in-Inflation-Expectations-Working.pdf)
 
+---
+
 Other Projects:
 * Stanford CISIL Data Challenge 2022 (with David Ami Wulf, Pablo Geraldo, Sarah Sotoudeh, Chad Hazlett, and Onyebuchi Arah) [Paper](docs/CISIL_Q1_Methods.pdf)
 * Modern Model-Based Bayesian Causal Inference for Randomized Experiments with Hamiltonian Monte Carlo in Stan [Paper](docs/Bayesian-Causal-Inference-for-Randomized-Experiments-with-HMC.pdf), [Repository](https://github.com/Adam-Rohde/Bayesian-Causal-Inference-for-Randomized-Experiments-with-HMC)
