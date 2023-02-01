@@ -1,11 +1,10 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Adam Rohde
 description: Welcome! Learn a bit about me, reach out, and keep an eye on my projects!
 author:
   name: Adam-Rohde
   email: adamrohde@ucla.edu
-minima:
- social_links:
+social_links:
   linkedin: https://www.linkedin.com/in/adam-rohde
   github: https://github.com/Adam-Rohde
   twitter: https://twitter.com/_adam_rohde
