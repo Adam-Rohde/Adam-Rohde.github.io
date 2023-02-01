@@ -5,7 +5,7 @@
 
 Find my latest research below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
 
-Research:
+### Research
 * Causal progress with imperfect placebo treatments and outcomes (with Chad Hazlett) [Draft](docs/Causal_progress_with_imperfect_placebos.pdf)
 * Twitter readers' experience of algorithmic amplification of US politicians over time (draft forthcoming soon; with Luca Belli)
 * Revisiting sample selection as a threat to internal validity: A new analytical tool, lessons, and examples (with Chad Hazlett) [Draft](docs/Revisiting_Sample_Selection_as_a_Threat_to_Internal_Validity.pdf)
@@ -15,7 +15,7 @@ Research:
 
 ---
 
-Other Projects:
+### Other Projects
 * Stanford CISIL Data Challenge 2022 (with David Ami Wulf, Pablo Geraldo, Sarah Sotoudeh, Chad Hazlett, and Onyebuchi Arah) [Paper](docs/CISIL_Q1_Methods.pdf)
 * Modern Model-Based Bayesian Causal Inference for Randomized Experiments with Hamiltonian Monte Carlo in Stan [Paper](docs/Bayesian-Causal-Inference-for-Randomized-Experiments-with-HMC.pdf), [Repository](https://github.com/Adam-Rohde/Bayesian-Causal-Inference-for-Randomized-Experiments-with-HMC)
 * Screening AlexNet Hyperparameters with MNIST (with Ashley Chiu) [Paper](docs/screening-alexnet-hyperparameters-with-mnist.pdf), [Repository](https://github.com/Adam-Rohde/Screening-AlexNet-Hyperparameters-with-MNIST)
