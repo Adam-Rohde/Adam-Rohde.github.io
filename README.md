@@ -10,7 +10,7 @@ Isle of Skye, June 2019
 ---
 ### About Me
 
-I’m a PhD student in [Statistics at UCLA](http://statistics.ucla.edu/) working with [Chad Hazlett](https://www.chadhazlett.com/). I spent the summer of 2022 as an Engineering Intern on Twitter's ML Ethics, Transparency, and Accountability (META) team. I have been at UCLA since fall 2019 and plan to graduate in spring 2023.
+I’m a PhD student in [Statistics at UCLA](http://statistics.ucla.edu/) working with [Chad Hazlett](https://www.chadhazlett.com/). I spent the summer of 2022 as an ML Ethics Intern at Twitter. I have been at UCLA since fall 2019 and plan to graduate in spring 2023.
 
 My PhD work focuses on building tools that practitioners can use to solve real-world problems using credible causal inference, with possible applications in science, policy, business, and technology. My work has focused on the underappreciated issue of sample selection (how units observed in a data set were selected to be in that data set) for internal validity and how to leverage information from placebo outcomes and treatments. The methods I have developed include a graphical procedure for evaluating sample selection as a threat to internal validity, a sensitivity analysis for sample selection, and a flexible and powerful partial identification framework for leveraging information about placebo outcomes and treatments to make defensible causal claims. 
 
