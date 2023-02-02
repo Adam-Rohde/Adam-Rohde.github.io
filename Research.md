@@ -1,3 +1,5 @@
+### [<img src="https://ucla.edu/favicon.ico" width="24">](http://directory.stat.ucla.edu/active_students/single-page/?smid=1612) [<img src="https://www.linkedin.com/favicon.ico" width="24">](https://www.linkedin.com/in/adam-rohde)  [<img src="https://github.com/favicon.ico" width="24">](https://github.com/Adam-Rohde)
+
 ### [Home](README.md) | [Research](Research.md) | [Notes](Notes.md) | [Resume](docs/Adam_R_Rohde_Resume.pdf)
 
 
