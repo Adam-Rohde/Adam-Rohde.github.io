@@ -1,3 +1,5 @@
+
+### [UCLA Statistics](http://directory.stat.ucla.edu/active_students/single-page/?smid=1612) [<img src="https://www.linkedin.com/favicon.ico" width="24">](https://www.linkedin.com/in/adam-rohde)  [<img src="https://github.com/favicon.ico" width="24">](https://github.com/Adam-Rohde)
 ### [Home](README.md) | [Research](Research.md) | [Notes](Notes.md) | [Resume](docs/Adam_R_Rohde_Resume.pdf)
 
 ---
@@ -17,19 +19,6 @@ Before UCLA, I worked at [Charles River Associates](http://www.crai.com/) for 6 
 I did my undergrad at [Boston College](https://www.bc.edu/), where I studied pure mathematics and economics. I did econometric research with [Bob Murphy](https://www.bc.edu/bc-web/schools/mcas/departments/economics/people/faculty-directory/robert-murphy.html) related to whether inflation expectations respond rationally to food and energy price movements. See this [link](https://link.springer.com/article/10.1057%2Feej.2015.50).
 
 I grew up in Minnesota, lived in Boston for eight years, spent two years in Berkeley and Oakland, and moved to Los Angeles in the summer of 2019.
-
----
-### Contact
-
-Don’t hesitate to reach out!
-
-[UCLA Statistics](http://directory.stat.ucla.edu/active_students/single-page/?smid=1612)
-
-[LinkedIn](https://www.linkedin.com/in/adam-rohde)
-
-[GitHub](https://github.com/Adam-Rohde)
-
-[Twitter](https://twitter.com/_adam_rohde)
 
 --- 
 ![](images/wi.jpg)
