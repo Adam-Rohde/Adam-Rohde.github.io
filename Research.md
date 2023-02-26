@@ -11,7 +11,7 @@ Find my latest research below! More to come! See my resume for brief description
 * Causal progress with imperfect placebo treatments and outcomes (with Chad Hazlett) [Draft](docs/Causal_progress_with_imperfect_placebos.pdf)
 * Twitter readers' experience of algorithmic amplification of US politicians over time (draft forthcoming soon; with Luca Belli)
 * Revisiting sample selection as a threat to internal validity: A new analytical tool, lessons, and examples (with Chad Hazlett) [Draft](docs/Revisiting_Sample_Selection_as_a_Threat_to_Internal_Validity.pdf)
-* When Observed Data Just Isn’t Enough: Omitted Variable Based Sensitivity Analysis for Sample Selection as a Threat to Internal Validity (with Chad Hazlett) [Draft](docs/Sensitivity_Analysis_for_Sample_Selection_and_Internal_Validity.pdf)
+* Sensitivity Analysis for Sample Selection as a Threat to Internal Validity (with Chad Hazlett) [Draft](docs/Sensitivity_Analysis_for_Sample_Selection_and_Internal_Validity.pdf)
 * Instrumental Variables with Sample Selection: Opportunities, Threats, and Graphs (with Chad Hazlett) [Draft](docs/Instrumental_Variables_and_Sample_Selection.pdf)
 * Rational Bias in Inflation Expectations (with Robert Murphy) [Paper](https://link.springer.com/article/10.1057%2Feej.2015.50), [Final Working Version](docs/Rational-Bias-in-Inflation-Expectations-Working.pdf)
 
