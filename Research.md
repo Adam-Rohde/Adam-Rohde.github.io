@@ -10,8 +10,8 @@ Find my latest research below! More to come! See my resume for brief description
 
 
 ### Research
+* Causal progress with imperfect placebo treatments and outcomes (with Chad Hazlett) [arXiv](https://arxiv.org/abs/2310.15266#)
 * Selection into the Sample and into Treatment: Tools for Internally Valid Causal Inference (Dissertation) [Link](https://escholarship.org/uc/item/5z86z6jm)
-* Causal progress with imperfect placebo treatments and outcomes (with Chad Hazlett) [Draft](docs/Causal_progress_with_imperfect_placebos.pdf)
 * Twitter readers' experience of algorithmic amplification of US politicians over time (draft forthcoming soon; with Luca Belli)
 * Revisiting sample selection as a threat to internal validity: A new analytical tool, lessons, and examples (with Chad Hazlett) [Draft](docs/Revisiting_Sample_Selection_as_a_Threat_to_Internal_Validity.pdf)
 * Sensitivity Analysis for Sample Selection as a Threat to Internal Validity (with Chad Hazlett) [Draft](docs/Sensitivity_Analysis_for_Sample_Selection_and_Internal_Validity.pdf)
