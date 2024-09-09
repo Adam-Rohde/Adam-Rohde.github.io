@@ -5,7 +5,7 @@
 
 ---
 
-Find my latest research below! More to come! See my resume for brief descriptions of my work at Charles River Associates. 
+Find my latest research below!  
 
 
 
